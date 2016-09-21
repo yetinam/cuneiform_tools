@@ -1,0 +1,14 @@
+Starting Benchmark MultiplyThree for n=10
+MultiplyThree for n=10 took 1.61283493042 seconds (0.00161283493042 per unit). Result is VALID
+Starting Benchmark MultiplyThree for n=20
+MultiplyThree for n=20 took 38.4520471096 seconds (0.0048065058887 per unit). Result is VALID
+Starting Benchmark MultiplyThree for n=30
+MultiplyThree for n=30 took 430.250433922 seconds (0.0159352012564 per unit). Result is VALID
+Starting Benchmark MultiplyThree for n=40
+MultiplyThree for n=40 took 4246.56001496 seconds (0.0663525002338 per unit). Result is VALID
+Starting Benchmark MultiplyThree for n=50
+MultiplyThree for n=50 took 19322.4065099 seconds (0.154579252079 per unit). Result is VALID
+Starting Benchmark MultiplyThree for n=60
+MultiplyThree for n=60 took 61933.8313429 seconds (0.286730700662 per unit). Result is VALID
+Starting Benchmark MultiplyThree for n=70
+Returncode -12 for Benchmark MultiplyThree for n=70
