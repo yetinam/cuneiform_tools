@@ -128,7 +128,7 @@ Rdentity(a:a);
         self.n = n
     
     def __str__(self):
-        return "Pydentity for n="+str(self.n)
+        return "Rdentity for n="+str(self.n)
     
     def GenScript(self):
         return self.code.replace('%d', str(self.n))
